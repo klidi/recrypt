@@ -42,27 +42,4 @@ From this structure we can automatically decrypt the key on our side using the p
 ##Please describe yourself using JSON
 Not sure if I need to describe the bullet points or myself, bit confused
 
-    {
-        "bio" : {
-            "first_name": "Iraklid",
-            "last_name": "Spiro",
-            "gender": "male",
-            "date_of_birth": "25-12-1990",
-            "birth_place": {
-                "city": "Fier",
-                "country": "Albania"
-            }
-            "married": true,
-        },
-        "residence": {
-            "city": "Haarlem",
-            "country": "Netherlands",
-            "since": "01-06-2018",
-        },
-        "employment": {
-            "title": "Software Developer",
-            "type": "Full time",
-            "employer": "BeGame"
-        }
-    }
-
+ 
